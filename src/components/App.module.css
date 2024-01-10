@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.newsCard {
+  border: solid 1px red;
+  border-radius: 10px;
+  width: 500px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.thumb {
+  display: flex;
+  gap: 10px;
+}
